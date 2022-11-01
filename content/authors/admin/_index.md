@@ -41,8 +41,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am currently a Master student studying Computer Science at the MSc Computer Science Student at [University of Amsterdam](https://www.uva.nl/) & [Vrije Universiteit Amsterdam](https://vu.nl/nl). My track is Big Data Engineering.
-
+I am currently a Master student studying Computer Science at the MSc Computer Science Student at [University of Amsterdam](https://www.uva.nl/) & [Vrije Universiteit Amsterdam](https://vu.nl/nl). My track is Big Data Engineering.\
 \
 My research interests mainly lie in translate the clinical question into a problem that can be interpreted by AI models and mining medical data.
 
