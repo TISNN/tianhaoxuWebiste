@@ -29,8 +29,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: University of Amsterdam
-  - name: Vrije Universiteit Amsterdam
+  - name: UvA
+    url: https://www.uva.nl/
+  - name: VU
+    url: https://vu.nl/nl
 education:
   courses:
     - course: PhD in Artificial Intelligence
