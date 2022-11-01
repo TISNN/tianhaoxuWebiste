@@ -33,7 +33,7 @@ education:
   courses:
     - course: Msc in Computer Science
       institution: University of Amsterdam & Vrije Universiteit Amsterdam
-    - course: Bsc
+    - course: Bsc in Software Engineering
       institution: Macau University of Science and Technology
 superuser: true
 last_name: Bighetti
