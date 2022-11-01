@@ -28,11 +28,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations:
-  - name: UvA
-    url: https://www.uva.nl/
-  - name: VU
-    url: https://vu.nl/nl
+organizations: []
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -50,12 +46,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-<!--StartFragment-->
-
-### SHORT BIO
-
-<!--EndFragment-->
-
 I am currently a Master student studying Computer Science at the MSc Computer Science Student at [University of Amsterdam](https://www.uva.nl/) & [Vrije Universiteit Amsterdam](https://vu.nl/nl). My track is Big Data Engineering.
 
 \
