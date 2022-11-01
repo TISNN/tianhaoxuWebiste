@@ -1,7 +1,7 @@
 ---
 title: Tianhao Xu
 role: Msc Computer Science Student
-avatar_filename: personal.jpg
+avatar_filename: personal-modified.png
 bio: ""
 interests:
   - Data Engineering
