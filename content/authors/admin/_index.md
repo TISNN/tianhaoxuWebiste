@@ -15,7 +15,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/EvanXu0
     label: Follow me on Twitter
     display:
       header: true
@@ -24,22 +24,17 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/TISNN
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/tianhao-xu-evan/
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc in Computer Science
+      institution: University of Amsterdam & Vrije Universiteit Amsterdam
+    - course: Bsc
+      institution: Macau University of Science and Technology
 superuser: true
 last_name: Bighetti
 highlight_name: true
@@ -51,6 +46,6 @@ I am currently a Master student studying Computer Science at the MSc Computer Sc
 \
 My research interests mainly lie in translate the clinical question into a problem that can be interpreted by AI models and mining medical data.
 
-I received my BSc in Software Engineering from [Macau University of Science and Technology.](https://www.must.edu.mo/en)My supervior is subrota kumar mondal. The thesis is using different deep learning models to detect COVID-19.
+I received my BSc in Software Engineering from [Macau University of Science and Technology](https://www.must.edu.mo/en). My supervior is subrota kumar mondal. The thesis is using different deep learning models to detect COVID-19.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
