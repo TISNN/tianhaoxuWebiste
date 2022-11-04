@@ -45,4 +45,4 @@ I am currently a Master student studying Computer Science at the [University of 
 \
 My research interests mainly lie in translating clinical questions into a problem that can be interpreted by AI models and mining medical data.
 
-I received my BSc in Software Engineering from the [Macau University of Science and Technology](https://www.must.edu.mo/en). My supervisor is Dr. [Subrota kumar mondal](https://www.must.edu.mo/scse/staff/subrota). The thesis is Using Different Deep Learning Models to Detect COVID-19.
+I received my BSc in Software Engineering from the [Macau University of Science and Technology](https://www.must.edu.mo/en). My supervisor is [Dr. Subrota kumar mondal](https://www.must.edu.mo/scse/staff/subrota). The thesis is Using Different Deep Learning Models to Detect COVID-19.
