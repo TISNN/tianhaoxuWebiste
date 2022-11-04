@@ -41,10 +41,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am currently a Master student studying Computer Science at the MSc Computer Science Student at [University of Amsterdam](https://www.uva.nl/) & [Vrije Universiteit Amsterdam](https://vu.nl/nl). My track is Big Data Engineering.\
+I am currently a Master student studying Computer Science at the [University of Amsterdam](https://www.uva.nl/) & [Vrije Universiteit Amsterdam](https://vu.nl/nl). My track is Big Data Engineering.\
 \
-My research interests mainly lie in translate the clinical question into a problem that can be interpreted by AI models and mining medical data.
+My research interests mainly lie in translating clinical questions into a problem that can be interpreted by AI models and mining medical data.
 
-I received my BSc in Software Engineering from [Macau University of Science and Technology](https://www.must.edu.mo/en). My supervior is Dr. [Subrota kumar mondal](https://www.must.edu.mo/scse/staff/subrota). The thesis is using different deep learning models to detect COVID-19. 
+I received my BSc in Software Engineering from the [Macau University of Science and Technology](https://www.must.edu.mo/en). My supervisor is Dr. [Subrota kumar mondal](https://www.must.edu.mo/scse/staff/subrota). The thesis is Using Different Deep Learning Models to Detect COVID-19. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
