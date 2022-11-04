@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: tianhao.xu@student.uva.nl
+    link: /#mail tianhao.xu@student.uva.nl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/EvanXu0
